@@ -1,0 +1,15 @@
+C:\Inholland study\Programing1.1\Week1\Exercise5\bin\Debug\net6.0\Exercise5.exe
+C:\Inholland study\Programing1.1\Week1\Exercise5\bin\Debug\net6.0\Exercise5.deps.json
+C:\Inholland study\Programing1.1\Week1\Exercise5\bin\Debug\net6.0\Exercise5.runtimeconfig.json
+C:\Inholland study\Programing1.1\Week1\Exercise5\bin\Debug\net6.0\Exercise5.dll
+C:\Inholland study\Programing1.1\Week1\Exercise5\bin\Debug\net6.0\Exercise5.pdb
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.csproj.AssemblyReference.cache
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfoInputs.cache
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfo.cs
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.dll
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\refint\Exercise5.dll
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.pdb
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\Exercise5.genruntimeconfig.cache
+C:\Inholland study\Programing1.1\Week1\Exercise5\obj\Debug\net6.0\ref\Exercise5.dll
