@@ -1,0 +1,15 @@
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\bin\Debug\net6.0\consoleDemoTeory.exe
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\bin\Debug\net6.0\consoleDemoTeory.deps.json
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\bin\Debug\net6.0\consoleDemoTeory.runtimeconfig.json
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\bin\Debug\net6.0\consoleDemoTeory.dll
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\bin\Debug\net6.0\consoleDemoTeory.pdb
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.csproj.AssemblyReference.cache
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.AssemblyInfoInputs.cache
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.AssemblyInfo.cs
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.csproj.CoreCompileInputs.cache
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.dll
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\refint\consoleDemoTeory.dll
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.pdb
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\consoleDemoTeory.genruntimeconfig.cache
+C:\Inholland study\Programing1.1\Programing_1_1\Week2\week2\consoleDemoTeory\obj\Debug\net6.0\ref\consoleDemoTeory.dll
