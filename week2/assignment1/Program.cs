@@ -12,12 +12,12 @@ namespace assignment1
             Thread.CurrentThread.CurrentCulture = ci;
 
             const double VatPercent = 0.21;
-            Console.Write("Enter the price: ");
+            Console.Write("Enter a price: ");
             string input = Console.ReadLine();
             double price = double.Parse(input);
             double vat = price * VatPercent;
             double total = vat + price;
-            Console.WriteLine($"price {price:0.00}, VAT: {vat:0.00}, total: {total:0.00}");
+            Console.WriteLine($"price: {price:0.00}, VAT: {vat:0.00}, total: {total:0.00}");
 
 
 

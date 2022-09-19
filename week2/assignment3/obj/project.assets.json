@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment3\\assignment3.csproj",
+      "projectUniqueName": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment3\\assignment3.csproj",
       "projectName": "assignment3",
-      "projectPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment3\\assignment3.csproj",
+      "projectPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment3\\assignment3.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment3\\obj\\",
+      "outputPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

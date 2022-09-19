@@ -1,0 +1,17 @@
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\bin\Debug\net6.0-windows\assignment6.exe
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\bin\Debug\net6.0-windows\assignment6.deps.json
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\bin\Debug\net6.0-windows\assignment6.runtimeconfig.json
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\bin\Debug\net6.0-windows\assignment6.dll
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\bin\Debug\net6.0-windows\assignment6.pdb
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.csproj.AssemblyReference.cache
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.Form1.resources
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.csproj.GenerateResource.cache
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.AssemblyInfoInputs.cache
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.AssemblyInfo.cs
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.csproj.CoreCompileInputs.cache
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.dll
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\refint\assignment6.dll
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.pdb
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\assignment6.genruntimeconfig.cache
+C:\Inholland study\Programing1.1\Programing_1_1\week2\assignment6\obj\Debug\net6.0-windows\ref\assignment6.dll

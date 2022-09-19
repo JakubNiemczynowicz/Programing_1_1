@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment4\\assignment4.csproj": {}
+    "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment4\\assignment4.csproj": {}
   },
   "projects": {
-    "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment4\\assignment4.csproj": {
+    "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment4\\assignment4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment4\\assignment4.csproj",
+        "projectUniqueName": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment4\\assignment4.csproj",
         "projectName": "assignment4",
-        "projectPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment4\\assignment4.csproj",
+        "projectPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment4\\assignment4.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\assignment4\\obj\\",
+        "outputPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\assignment4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

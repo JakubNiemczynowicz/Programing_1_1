@@ -21,7 +21,7 @@ namespace assignment3
 
             Console.WriteLine($"{hours:00}:{minutes:00}:{seconds:00}");
 
-
+            
 
 
         }

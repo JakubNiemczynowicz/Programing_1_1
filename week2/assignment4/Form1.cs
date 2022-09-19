@@ -33,9 +33,9 @@ namespace assignment4
             double price = double.Parse(input);
             double vat = price * VatPercent;
             double total = vat + price;
-            lbPriceOut =  price:0.00;
-            lbVatOut =    vat:0.00;
-            lbTotalOut  = total:0.00;
+            lbPriceOut.Text =  $"{price:0.00}";
+            lbVatOut.Text =    $"{vat:0.00}";
+            lbTotalOut.Text = $"{total:0.00}";
 
 
 

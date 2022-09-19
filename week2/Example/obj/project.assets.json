@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\Example\\Example.csproj",
+      "projectUniqueName": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\Example\\Example.csproj",
       "projectName": "Example",
-      "projectPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\Example\\Example.csproj",
+      "projectPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\Example\\Example.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\Week2\\week2\\Example\\obj\\",
+      "outputPath": "C:\\Inholland study\\Programing1.1\\Programing_1_1\\week2\\Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
