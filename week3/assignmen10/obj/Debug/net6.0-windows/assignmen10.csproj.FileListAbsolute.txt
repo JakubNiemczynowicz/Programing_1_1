@@ -1,0 +1,17 @@
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.csproj.AssemblyReference.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.Form1.resources
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.csproj.GenerateResource.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.AssemblyInfoInputs.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.AssemblyInfo.cs
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.csproj.CoreCompileInputs.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\bin\Debug\net6.0-windows\assignmen10.exe
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\bin\Debug\net6.0-windows\assignmen10.deps.json
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\bin\Debug\net6.0-windows\assignmen10.runtimeconfig.json
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\bin\Debug\net6.0-windows\assignmen10.dll
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\bin\Debug\net6.0-windows\assignmen10.pdb
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.dll
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\refint\assignmen10.dll
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.pdb
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\assignmen10.genruntimeconfig.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignmen10\obj\Debug\net6.0-windows\ref\assignmen10.dll

@@ -1,0 +1,15 @@
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\bin\Debug\net6.0\assigment1.exe
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\bin\Debug\net6.0\assigment1.deps.json
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\bin\Debug\net6.0\assigment1.runtimeconfig.json
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\bin\Debug\net6.0\assigment1.dll
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\bin\Debug\net6.0\assigment1.pdb
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.csproj.AssemblyReference.cache
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.AssemblyInfoInputs.cache
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.AssemblyInfo.cs
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.csproj.CoreCompileInputs.cache
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.dll
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\refint\assigment1.dll
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.pdb
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\assigment1.genruntimeconfig.cache
+C:\Inholland study\Programing 1\Programing_1_1\week4\assigment1\obj\Debug\net6.0\ref\assigment1.dll

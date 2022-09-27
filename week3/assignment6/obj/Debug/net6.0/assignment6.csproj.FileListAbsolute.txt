@@ -1,0 +1,15 @@
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\bin\Debug\net6.0\assignment6.exe
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\bin\Debug\net6.0\assignment6.deps.json
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\bin\Debug\net6.0\assignment6.runtimeconfig.json
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\bin\Debug\net6.0\assignment6.dll
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\bin\Debug\net6.0\assignment6.pdb
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.csproj.AssemblyReference.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.AssemblyInfoInputs.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.AssemblyInfo.cs
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.csproj.CoreCompileInputs.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.dll
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\refint\assignment6.dll
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.pdb
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\assignment6.genruntimeconfig.cache
+C:\Inholland study\Programing 1\Programing_1_1\week3\assignment6\obj\Debug\net6.0\ref\assignment6.dll
